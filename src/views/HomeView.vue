@@ -3,7 +3,5 @@ import Viewer from '../components/Viewer.vue'
 </script>
 
 <template>
-  <main>
-    <Viewer />
-  </main>
+  <Viewer />
 </template>
